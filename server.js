@@ -122,6 +122,14 @@ server.post('/api/actions', async (req, res) => {
   }
 })
 
+// add action 
+// {
+//   "description": "2",
+//   "notes": "1",
+//   "completed": 0,
+//   "project_id": 1
+// }
+
   
 
 
