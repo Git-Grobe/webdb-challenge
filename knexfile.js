@@ -1,4 +1,5 @@
 // Update with your config settings.
+
 module.exports = {
 
   development: {
@@ -6,6 +7,6 @@ module.exports = {
     connection: {
       filename: './data/data.db3',
     },
-    useNullAsDefault: true, // needed for sqlite
+    useNullAsDefault: true,
   },
 };
